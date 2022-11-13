@@ -1,0 +1,50 @@
+/* .container {
+    max-width: 1000px;
+    padding: 0 1.4rem;
+    margin: 0 auto;
+} */
+#body {
+    background-color: black;
+    height: 1250px;
+}
+#head1 {
+    color: white;
+    margin-top: 15%;
+    margin-bottom: 5%;
+
+    text-align: center;
+}
+#head2 {
+    color: white;
+    border: #343a40;
+    border-radius: 5%;
+    margin-top: 5%;
+    margin-bottom: 5%;
+    background-color: #343a40;
+
+    text-align: center;
+}
+
+#main_content {
+    width: 90%;
+    height: 90%;
+    display: flex;
+    
+    flex-direction: column;
+    justify-content: space-around;
+}
+
+#yt-video {
+    margin-top: 5%;
+    margin-bottom: 25%;
+    height: 100%;
+}
+
+#input_email_label {
+    color: white;
+}
+
+#button1{
+    background-color: #343a40;
+    border: #343a40;
+}
